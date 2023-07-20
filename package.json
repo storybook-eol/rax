@@ -194,6 +194,7 @@
     "lerna": "^3.22.1",
     "lint-staged": "^10.5.4",
     "lodash": "^4.17.20",
+    "mini-css-extract-plugin": "^0.9.0",
     "mocha-list-tests": "^1.0.5",
     "node-cleanup": "^2.1.2",
     "node-fetch": "^2.6.1",
@@ -223,6 +224,7 @@
     "web-component-analyzer": "^1.1.6",
     "webpack": "4",
     "webpack-dev-middleware": "^3.7.3",
+    "webpack-rpx": "^1.0.0",
     "window-size": "^1.1.1"
   },
   "optionalDependencies": {
